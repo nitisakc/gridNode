@@ -36,7 +36,7 @@
     "python-shell": "^1.0.7",
     "request": "^2.88.0",
     "serialport": "^8.0.5",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "underscore": "^1.9.1"
   },
   "host": "",
