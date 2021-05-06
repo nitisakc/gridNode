@@ -37,7 +37,7 @@
     "request": "^2.88.0",
     "serialport": "^8.0.5",
     "socket.io": "^2.1.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "host": "",
   "port": 3001,
